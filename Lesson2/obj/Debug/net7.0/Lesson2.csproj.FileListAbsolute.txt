@@ -1,0 +1,15 @@
+/Users/a2/Lessons3/Lesson2/bin/Debug/net7.0/Lesson2
+/Users/a2/Lessons3/Lesson2/bin/Debug/net7.0/Lesson2.deps.json
+/Users/a2/Lessons3/Lesson2/bin/Debug/net7.0/Lesson2.runtimeconfig.json
+/Users/a2/Lessons3/Lesson2/bin/Debug/net7.0/Lesson2.dll
+/Users/a2/Lessons3/Lesson2/bin/Debug/net7.0/Lesson2.pdb
+/Users/a2/Lessons3/Lesson2/obj/Debug/net7.0/Lesson2.csproj.AssemblyReference.cache
+/Users/a2/Lessons3/Lesson2/obj/Debug/net7.0/Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a2/Lessons3/Lesson2/obj/Debug/net7.0/Lesson2.AssemblyInfoInputs.cache
+/Users/a2/Lessons3/Lesson2/obj/Debug/net7.0/Lesson2.AssemblyInfo.cs
+/Users/a2/Lessons3/Lesson2/obj/Debug/net7.0/Lesson2.csproj.CoreCompileInputs.cache
+/Users/a2/Lessons3/Lesson2/obj/Debug/net7.0/Lesson2.dll
+/Users/a2/Lessons3/Lesson2/obj/Debug/net7.0/refint/Lesson2.dll
+/Users/a2/Lessons3/Lesson2/obj/Debug/net7.0/Lesson2.pdb
+/Users/a2/Lessons3/Lesson2/obj/Debug/net7.0/Lesson2.genruntimeconfig.cache
+/Users/a2/Lessons3/Lesson2/obj/Debug/net7.0/ref/Lesson2.dll
